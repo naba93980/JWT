@@ -1,0 +1,17 @@
+{
+  "name": "JWT_Authentication",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "devStart2": "nodemon server2.js"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
